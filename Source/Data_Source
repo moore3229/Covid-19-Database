@@ -1,0 +1,9 @@
+Data	Source
+c19_trk_us_daily	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
+c19_trk_us_population_counties	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
+c19_trk_us_population_states	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
+c19_trk_us_population_states_age_groups	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
+c19_trk_us_states_acs_health_insurance	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
+c19_trk_us_states_daily	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
+c19_trk_us_states_info	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
+c19_trk_us_states_kff_hospital_beds	https://covid19-harmonized-dataset.s3.amazonaws.com/index.html
